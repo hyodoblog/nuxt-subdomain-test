@@ -13,7 +13,9 @@
   "dependencies": {
     "@nuxt/typescript-runtime": "^2.0.0",
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6"
+    "express": "^4.17.1",
+    "nuxt": "^2.14.6",
+    "vhost": "^3.0.2"
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.6",
